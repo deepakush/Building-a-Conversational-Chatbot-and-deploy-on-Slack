@@ -20,7 +20,7 @@ python -m spacy link en_core_web_md en
 
  
 
-## After all setups, let's train chatbot:
+### After all setups, let's train chatbot:
 
 $ rasa train nlu
 
@@ -32,4 +32,4 @@ $ rasa run action --after up the action server! run $ rasa shell --on another cm
 
 $ rasa interactive --that can improve training data
 
-If you getting error to execute the bot on terminal using rasa train nlu/core then try: rasa train -vv -dump-stories --force
+### If you getting error to execute the bot on terminal after using rasa train nlu/core then try: rasa train -vv -dump-stories --force 
