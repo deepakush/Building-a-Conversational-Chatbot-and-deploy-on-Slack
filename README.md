@@ -3,11 +3,11 @@
 ## Building-a-Conversational-Chatbot-using-Rasa-Framework-deploy-on-Slack
 Build a conversational bot (chatbot) for good Restaurant discovery experience using Rasa framework &amp; Zomato API call &amp; deployed on Slack
 
-### Here's my YouTube link -->> Quick overview of executing bot in terminal & Slack demo:
+### Here's my YouTube link -->> 
 
-https://youtu.be/YyYKF5F3iq0
+Quick overview of executing bot in terminal: https://youtu.be/ym8d5_Bhbgk
 
-https://youtu.be/ym8d5_Bhbgk
+& Slack demo: https://youtu.be/YyYKF5F3iq0
 
 conda info --envs
 
