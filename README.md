@@ -1,4 +1,4 @@
-# PGD -Machine Learning & AI | IIIT-B Case-Study
+# IIIT-B Case-Study
 
 ## Building-a-Conversational-Chatbot-using-Rasa-Framework-deploy-on-Slack
 Build a conversational bot (chatbot) for good Restaurant discovery experience using Rasa framework &amp; Zomato API call &amp; deployed on Slack
