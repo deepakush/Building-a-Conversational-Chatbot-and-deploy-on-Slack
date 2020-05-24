@@ -10,19 +10,27 @@ https://youtu.be/YyYKF5F3iq0
 https://youtu.be/ym8d5_Bhbgk
 
 conda info --envs
+
 $ conda create -n rasa python=3.7
+
 $ conda activate rasa
+
 $ pip install rasa-x --extra-index-url https://pypi.rasa.com/simple
  
 $ pip install rasa==1.9.5
+
 $ pip install rasa-sdk==1.9.0
+
 $ pip install ujson==1.35
+
 $ pip install tensorflow==2.1.0
 
 --Download spacy model and link it
 
 $ pip install rasa[spacy]==1.9.5
+
 $ python -m spacy download en_core_web_md
+
 $ python -m spacy link en_core_web_md en
 
  
