@@ -9,6 +9,7 @@ Build a conversational bot (chatbot) for good Restaurant discovery experience us
 
 #### >>Slack demo: https://youtu.be/YyYKF5F3iq0
 
+
 conda info --envs
 
 $ conda create -n rasa python=3.7
