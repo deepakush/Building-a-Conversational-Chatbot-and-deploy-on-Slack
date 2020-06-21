@@ -1,5 +1,5 @@
 
-## Building-a-Conversational-Chatbot-using-Rasa-Framework-deploy-on-Slack
+## Building-a-Conversational-Chatbot-&-deploy-on-Slack
 Build a conversational bot (chatbot) for good Restaurant discovery experience
 ### --- Here's my YouTube link ---
 
